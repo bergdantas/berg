@@ -2,4 +2,8 @@
 
 <p>Este é o texto de apresentação de vocês</p>
 
-<p>Tchau!</p>
+<p>Hoje eu estou muito amável</p> :hearts:
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+          
