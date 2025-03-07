@@ -20,10 +20,10 @@
                     
 
 <h3>Frameworks</h3>
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=36 height=36 />
           
 <h3>Redes Sociais e Contatos</h3>
-<a href="www.facebook.com"> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" /></a><a href="http://github.com/bergdantas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px" /></a>
+<a href="www.facebook.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width=36 height=36 /></a><a href="http://github.com/bergdantas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=36 height=36 /></a>
                     
 <h3>Links Úteis</h3>
 <a href="www.bergdantas.com">Meu site </a>
