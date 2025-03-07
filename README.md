@@ -1,40 +1,27 @@
 <h1> Berg Dantas</h1>
 
-<h2>Quem sou eu:</h2>
+<h3>Quem sou eu:</h3>
 <p>:school: Sou estudante de programação com foco em WEB, no IFRN.</p>
 <p> :octocat: Sou... </p>
 
-<h2>Interesses:</h2>
+<h3>Interesses:</h3>
 <p>:computer: Programação</p>
 <p>:video_game: Videogames</p>
 
-<h2>Habilidades principais:</h2> 
+<h3>Habilidades principais:</h3> 
 <p> :open_file_folder: Organização</p>
 <p> :family: Trabalho em equipe</p>
 <p> :chart_with_downwards_trend: Proatividade</p>
 
 
-<h2>Tecnologias que Uso</h2>
-
-4. Experiência Profissional
-
-    
-5. Certificações e Cursos
-
-    
-6. Contribuições para a Comunidade
-
-    
-7. Estudos e Aprendizado Contínuo
-
-    
-8. Redes Sociais e Contatos
-
-    
-9. Metodologias de Trabalho
-
-    
-10. Links Úteis
-
-    
-11. Desafios ou Objetivos
+<h3>Tecnologias que Uso</h3>
+<img with="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /><img with="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /><img with="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+<h3>Frameworks</h3>
+<img with="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+          
+<h3>Redes Sociais e Contatos</h3>
+<a href="www.facebook.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" /> </a><a href="www.github.com/bergdantas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></a>
+                    
+<h3>Links Úteis<h3>
+<a href="www.bergdantas.com">Meu site </a>
